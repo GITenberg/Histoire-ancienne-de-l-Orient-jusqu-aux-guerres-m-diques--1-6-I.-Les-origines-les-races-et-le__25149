@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31106'
     url: http://www.gutenberg.org/2009/agents/31106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25149#Histoire-ancienne-de-l-Orient-jusqu-aux-guerres-m-diques--1-6-I.-Les-origines-les-races-et-le_
 gutenberg_bookshelf: FR Politique
 gutenberg_issued: '2008-04-23'
 gutenberg_type: Text
