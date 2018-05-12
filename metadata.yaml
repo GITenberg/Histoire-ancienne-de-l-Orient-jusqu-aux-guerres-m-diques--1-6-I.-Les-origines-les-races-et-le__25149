@@ -1,0 +1,30 @@
+_repo: Histoire-ancienne-de-l-Orient-jusqu-aux-guerres-m-diques--1-6-I.-Les-origines-les-races-et-le__25149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lenormant, François
+    alias: Lenormant, Francois
+    birthdate: 1837
+    deathdate: 1883
+    gutenberg_agent_id: '31106'
+    url: http://www.gutenberg.org/2009/agents/31106
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2008-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25149'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Middle East -- History -- To 622'
+title: 'Histoire ancienne de l''Orient jusqu''aux guerres médiques (1-6)
+
+  I. Les origines, les races et les langues'
+url: http://www.gutenberg.org/ebooks/25149
